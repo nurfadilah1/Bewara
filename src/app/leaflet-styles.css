@@ -1,0 +1,12 @@
+/* Leaflet styles fix for marker icons */
+.leaflet-container {
+  background: #f0f0f0;
+}
+
+.leaflet-popup-content-wrapper {
+  border-radius: 8px;
+}
+
+.leaflet-popup-content {
+  margin: 8px 12px;
+}

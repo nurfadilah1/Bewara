@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "desa": "Cireunghas",
+        "kecamatan": "Cireunghas",
+        "kabupaten": "Sukabumi",
+        "tingkat_longsor": "Tinggi",
+        "warna": "#dc2626"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.5835, -7.1120],
+            [107.5920, -7.1120],
+            [107.5920, -7.1200],
+            [107.5835, -7.1200],
+            [107.5835, -7.1120]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desa": "Bencoy",
+        "kecamatan": "Cireunghas",
+        "kabupaten": "Sukabumi",
+        "tingkat_longsor": "Sedang",
+        "warna": "#f59e0b"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.5920, -7.1120],
+            [107.6005, -7.1120],
+            [107.6005, -7.1205],
+            [107.5920, -7.1205],
+            [107.5920, -7.1120]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "desa": "Cikurutug",
+        "kecamatan": "Cireunghas",
+        "kabupaten": "Sukabumi",
+        "tingkat_longsor": "Rendah",
+        "warna": "#16a34a"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [107.5830, -7.1200],
+            [107.5925, -7.1200],
+            [107.5925, -7.1280],
+            [107.5830, -7.1280],
+            [107.5830, -7.1200]
+          ]
+        ]
+      }
+    }
+  ]
+}
