@@ -131,9 +131,7 @@ export default function App() {
       <header className="bg-gradient-to-r from-blue-700 to-blue-900 text-white shadow-lg">
         <div className="container mx-auto px-4 py-6">
           <div className="flex items-center gap-4">
-            <div className="bg-white p-2 rounded-xl text-blue-900 shadow-md">
-              <img src="/logo-baru.png" alt="Logo" className="w-13 h-10 object-contain" />
-            </div>
+              <img src="/logo-baru.png" alt="Logo" className="w-18 h-full object-contain" />
             <div>
               <h1 className="text-2xl font-black tracking-tight uppercase">BEWARA</h1>
               <p className="text-blue-200 text-xs font-medium italic">Sistem Monitoring Longsor Cireunghas </p>
